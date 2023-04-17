@@ -4,7 +4,7 @@
 
 🔭 I'm currently developing various systems with many different software languages
 
-💻 😎 I’m currently learning python openCV, GUI and PIC
+💻 😎 I’m currently learning PIC, python openCV, and GUI 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eminayy%C4%B1ld%C4%B1z)
 
