@@ -2,11 +2,11 @@
 
 ## Hi there 👋🏼👋🏼👋🏼
 
-🎯 I'm an electrical and electronics engineering student and I want to specialize in embedded systems.
+🎯 I'm an electrical and electronics engineering student and I want to specialize in embedded software engineering and embedded systems design.
 
 🔭 I'm currently developing various systems with many different software languages
 
-💻 😎 I’m currently learning PIC, STM32, and Cpp 
+💻 😎 I’m currently working on STM32, C and C++ 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eminayy%C4%B1ld%C4%B1z)
 
